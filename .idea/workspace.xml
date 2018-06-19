@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08180b32-8434-4e49-b4d7-4fae0f318113" name="Default" comment="" />
+    <list default="true" id="08180b32-8434-4e49-b4d7-4fae0f318113" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.travis.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -83,7 +85,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -413,6 +427,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/.travis.yml" />
       </list>
     </option>
   </component>
@@ -427,6 +442,9 @@
     <option name="y" value="61" />
     <option name="width" value="1901" />
     <option name="height" value="1233" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -634,6 +652,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="254" y="61" width="1901" height="1233" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -644,7 +663,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294686" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30017605" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -711,6 +730,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
