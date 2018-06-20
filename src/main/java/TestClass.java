@@ -4,5 +4,7 @@ public class TestClass {
 
     public static void main(String[] args) {
         //dit is nog eens een test
+
+        System.out.println("testje");
     }
 }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08180b32-8434-4e49-b4d7-4fae0f318113" name="Default" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestClass.java" afterDir="false" />
+    <list default="true" id="08180b32-8434-4e49-b4d7-4fae0f318113" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -666,6 +666,21 @@
       <option name="presentableId" value="Default" />
       <updated>1529399771351</updated>
     </task>
+    <task id="LOCAL-00001" summary="test2">
+      <created>1529416169526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529416169526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test3">
+      <created>1529416352463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529416352463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -680,12 +695,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294686" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30017605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922536" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32922536" />
+      <window_info anchor="bottom" id="Terminal" weight="0.30017605" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24852072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24852072" />
       <window_info anchor="bottom" id="Build" weight="0.3294686" />
       <window_info anchor="right" id="Gradle" visible="true" weight="0.1457773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -707,7 +722,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -764,8 +781,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
